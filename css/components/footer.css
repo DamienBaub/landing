@@ -1,0 +1,18 @@
+.footer-background {
+  background-color: #2C2B2B;
+  color: #20DD88;
+  padding: 50px;
+}
+
+ .links-footer {
+  text-align: center;
+ }
+
+.links-footer a {
+  color: #20DD88;
+  padding: 0 5px;
+}
+
+.links-footer p {
+  opacity: 0.7;
+}
